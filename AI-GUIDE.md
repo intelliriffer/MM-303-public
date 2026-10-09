@@ -102,15 +102,12 @@ Edit `plugin/src/**` and `plugin/CMakeLists.txt`. Identity lives in
 | Change name / uid | `plugin/CMakeLists.txt` (`PRODUCT_NAME`, `PLUGIN_NAME`, `PLUGIN_CODE`) |
 | Change preset controls | `tools/preset.json` (+ `templates/preset/preset_shim.cpp`) |
 | Add/remove a plugin param | `plugin/src/JC303.cpp` APVTS list; `MM-303.json` regenerates |
-| Regenerate skin (TUI + Q-Links) | `./skinGen.sh` (no build), then reboot the device |
+| Regenerate skin (TUI + Q-Links) | `./skinGen.sh` (no build) |
 
 ## Install (Akai Force / MPC)
 
-1. Copy `output/MockbaMod - VST - MM-303/` to your device's Synths folder
-   (e.g. `/media/<card>/Synths/`).
-2. Run `vstscanner.sh` in your Synths folder (or reboot the device) so the
-   plugin and its virtual MIDI port are rescanned.
-3. Add MM-303 on an instrument track.
+Copy the `MockbaMod - VST - MM-303/` folder to your Synths folder, then run
+`vstscanner.sh` in your Synths folder.
 
 ## Troubleshooting
 

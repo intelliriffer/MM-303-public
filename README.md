@@ -123,11 +123,8 @@ Options: `--clean` (clean everything, then ask to rebuild), `--no-tui`,
 
 ## Install (Akai Force / MPC)
 
-1. Copy `output/MockbaMod - VST - MM-303/` to the SD card
-   (e.g. `/media/<card>/Synths/MockbaMod - VST - MM-303/`).
-2. The Force/MPC scans it as a native plugin; add it on an instrument track.
-3. **Reboot** the device once so the virtual MIDI port and skin list are
-   rescanned.
+Copy the `MockbaMod - VST - MM-303/` folder to your Synths folder, then run
+`vstscanner.sh` in your Synths folder.
 
 ## Configuration — `MM-303.conf`
 
