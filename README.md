@@ -1,6 +1,6 @@
 # MM-303
 
-A TB-303-style bass synthesiser + acid step sequencer, packaged as a native
+A TB-303-style bass synthesiser + acid generative sequencer, packaged as a native
 **VST2** plugin for the **Akai Force** and **Akai MPC** standalone
 (armhf, glibc 2.31).
 
