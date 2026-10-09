@@ -1,0 +1,107 @@
+{
+  "key": "blueled",
+  "value": {
+    "version": 2,
+    "actions": [],
+    "backgroundData": {
+      "version": 1,
+      "focussed": {
+        "version": 1,
+        "colour": "0",
+        "image": ""
+      },
+      "unfocussed": {
+        "version": 1,
+        "colour": "0",
+        "image": ""
+      }
+    },
+    "ignoreMousePresses": true,
+    "disableCoarseDataWheel": true,
+    "componentsData": [
+      {
+        "version": 2,
+        "componentData": {
+          "version": 1,
+          "name": "Focus",
+          "type": "Focus",
+          "data": {
+            "version": 1,
+            "backgroundColour": "19ffffff",
+            "outlineColour": "ffe81f40",
+            "backgroundInset": 4.0,
+            "outlineThickness": 1.0
+          }
+        },
+        "handle remapping": {
+          "version": 1,
+          "map": []
+        },
+        "bounds": {
+          "version": 1,
+          "acceptsHWFocus": "No",
+          "showWhenDataModelInvalid": "Show",
+          "whenVisible": "WhenFocussed",
+          "boundsType": "Proportional",
+          "bounds": "0 0 54 54"
+        }
+      },
+      {
+        "version": 2,
+        "componentData": {
+          "version": 1,
+          "name": "",
+          "type": "Button",
+          "data": {
+            "version": 1,
+            "onImage": "bled_onx54.png",
+            "offImage": "bled_offx54.png",
+            "buttonId": 1,
+            "numButtonsInGroup": 1,
+            "handleName": "Data"
+          }
+        },
+        "handle remapping": {
+          "version": 1,
+          "map": []
+        },
+        "bounds": {
+          "version": 1,
+          "acceptsHWFocus": "No",
+          "showWhenDataModelInvalid": "Show",
+          "whenVisible": "Always",
+          "boundsType": "Absolute",
+          "bounds": "0 0 54 54"
+        }
+      }
+    ]
+  },
+
+  "version": 2,
+  "componentData": {
+    "version": 1,
+    "name": "{name}",
+    "type": "blueled",
+    "data": {
+      "version": 1,
+      "handleName": "Data"
+    }
+  },
+  "handle remapping": {
+    "version": 1,
+    "map": [
+      {
+        "key": "Data",
+        "value": "Parameter {index}"
+      }
+    ]
+  },
+  "bounds": {
+    "version": 1,
+    "acceptsHWFocus": "No",
+    "showWhenDataModelInvalid": "Show",
+    "whenVisible": "Always",
+    "boundsType": "Absolute",
+    "bounds": "{x} {y} 54 54"
+  }
+}

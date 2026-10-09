@@ -1,0 +1,15 @@
+{
+  "pageData": {
+    "version": 1,
+    "componentDefinitions": {
+      "version": 2,
+      "importFiles": ["./assets.json"],
+      "localComponentDefinitions": []
+    },
+    "info": {
+      "version": 1,
+      "type": "CompleteDescription"
+    },
+    "tabs": {tabs}
+  }
+}

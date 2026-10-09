@@ -1,0 +1,15 @@
+# armhf audio-plugin toolchain: Debian 11 bullseye, glibc 2.31 ceiling
+FROM arm32v7/gcc:11
+ENV DEBIAN_FRONTEND=noninteractive
+COPY docker/packages-armhf-audio.txt /packages.txt
+RUN sed -i 's|http://deb.debian.org/debian|http://archive.debian.org/debian|g' /etc/apt/sources.list \
+ && sed -i '/debian-security/d' /etc/apt/sources.list \
+ && echo 'Acquire::Check-Valid-Until "false";' > /etc/apt/apt.conf.d/99no-check-valid-until \
+ && apt-get update \
+ && grep -v '^#' /packages.txt | grep -v '^$' | xargs apt-get install -y --no-install-recommends \
+ && rm -rf /var/lib/apt/lists/*
+# Modern CMake: official PyPI wheel built against glibc 2.31 (manylinux_2_31_armv7l).
+# CMake version does not affect the glibc ceiling — the compiler does.
+RUN pip3 install --no-cache-dir --upgrade pip \
+ && pip3 install --no-cache-dir 'cmake==3.31.6' \
+ && cmake --version

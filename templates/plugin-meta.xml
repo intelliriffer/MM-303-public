@@ -1,0 +1,1 @@
+<PLUGIN name="{NAME}" descriptiveName="{NAME}" format="VST" category="Synth" manufacturer="MockbaMod" version="1.0" file="%payload-path%/MockbaMod - VST - {NAME}/{NAME}.so" uid="{UID}" isInstrument="{IS_INSTRUMENT}" fileTime="0" infoUpdateTime="0" numInputs="{NIN}" numOutputs="{NOUT}" isShell="0"/>

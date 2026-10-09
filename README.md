@@ -95,6 +95,9 @@ What you need:
   - macOS / Windows: install [Docker Desktop](https://www.docker.com/products/docker-desktop/).
   - Linux: install Docker Engine + armhf emulation
     (`docker run --privileged --rm tonistiigi/binfmt --install arm`).
+- A prebuilt toolchain image is published at
+  `ghcr.io/intelliriffer/mm303-build:armhf-glibc231-audio`; `build.sh` pulls it
+  automatically if it isn't already local.
 - Internet access on first build (JUCE is fetched by CMake).
 - No compiler/toolchain needed on the host.
 

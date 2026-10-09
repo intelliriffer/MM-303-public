@@ -1,0 +1,60 @@
+# armhf audio-plugin toolchain: Debian 11 bullseye, glibc 2.31 ceiling
+# Superset of docker/packages.txt (force33) — new additions marked NEW.
+# One package per line. Lines starting with # are comments.
+
+# Build tools
+make
+file
+patch
+python3
+python3-pip
+pkg-config
+git
+binutils
+
+# LV2
+lv2-dev
+libsndfile1-dev
+
+# X11/GUI
+libgl1-mesa-dev
+libx11-dev
+libxcursor-dev
+libxext-dev
+libxrandr-dev
+
+# JUCE windowing/text (NEW) — per juce-framework/JUCE docs/Linux Dependencies.md
+libxinerama-dev
+libxcomposite-dev
+libxfixes-dev
+libxrender-dev
+libxi-dev
+libfreetype6-dev
+libfontconfig1-dev
+
+# GTK/glib (gtk2 for older LV2 GUIs, e.g. GxDistortionPlus)
+libglib2.0-dev
+libgtk2.0-dev
+libgtk-3-dev
+
+# Boost
+libboost-dev
+libboost-filesystem-dev
+libboost-thread-dev
+libboost-system-dev
+libboost-serialization-dev
+
+# Audio/DSP
+liblo-dev
+libjack-jackd2-dev
+libfftw3-dev
+libsamplerate0-dev
+
+# ALSA (RtMidi virtual MIDI ports)
+libasound2-dev
+
+# DPF UI (NEW)
+libcairo2-dev
+
+# JUCE curl (NEW)
+libcurl4-openssl-dev

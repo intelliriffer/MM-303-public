@@ -1,0 +1,29 @@
+{
+  "version": 2,
+  "componentData": {
+    "version": 1,
+    "name": "{name}",
+    "type": "knobBlackChickLarge",
+    "data": {
+      "version": 1,
+      "handleName": "Data"
+    }
+  },
+  "handle remapping": {
+    "version": 1,
+    "map": [
+      {
+        "key": "Data",
+        "value": "Parameter {index}"
+      }
+    ]
+  },
+  "bounds": {
+    "version": 1,
+    "acceptsHWFocus": "Yes",
+    "showWhenDataModelInvalid": "Hide",
+    "whenVisible": "Always",
+    "boundsType": "Absolute",
+    "bounds": "{x} {y} 136 136"
+  }
+}

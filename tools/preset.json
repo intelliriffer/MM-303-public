@@ -1,0 +1,9 @@
+{
+ "controls": [
+  {"name": "Prog#", "symbol": "prog", "type": "knob", "range": [0.0, 127.0], "default": 0.0, "integer": true, "note": "program slot 0-127"},
+  {"name": "Load", "symbol": "load", "type": "steps", "range": [0.0, 1.0], "default": 0.0, "displayValues": ["Off", "On"], "momentary": true, "note": "any setParameter value (1 or 0) triggers; loads slot Prog#"},
+  {"name": "Save", "symbol": "save", "type": "steps", "range": [0.0, 1.0], "default": 0.0, "displayValues": ["Off", "On"], "momentary": true, "note": "any setParameter value (1 or 0) triggers; saves params to slot Prog#"},
+  {"name": "Status", "symbol": "status", "type": "knob", "range": [0.0, 127.0], "default": 0.0, "integer": true, "note": "visual-only LED: 1 for ~500ms after Load/Save, then 0; host writes ignored"},
+  {"name": "Clip", "symbol": "clip", "type": "knob", "range": [0.0, 127.0], "default": 0.0, "integer": true, "note": "visual-only clip LED: 1 while the output clips, then 0 after ~150ms; host writes ignored"}
+ ]
+}

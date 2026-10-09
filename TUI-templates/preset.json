@@ -1,0 +1,90 @@
+[
+  {
+    "version": 2,
+    "componentData": {
+      "version": 1,
+      "name": "pprogSelect",
+      "type": "progSelect",
+      "data": {
+        "version": 1,
+        "handleName": "Data"
+      }
+    },
+    "handle remapping": {
+      "version": 1,
+      "map": [
+        {
+          "key": "Data",
+          "value": "Parameter {prog}"
+        }
+      ]
+    },
+    "bounds": {
+      "version": 1,
+      "acceptsHWFocus": "Yes",
+      "showWhenDataModelInvalid": "Show",
+      "whenVisible": "Always",
+      "boundsType": "Absolute",
+      "bounds": "871 30 120 48"
+    }
+  },
+
+  {
+    "version": 2,
+    "componentData": {
+      "version": 1,
+      "name": "",
+      "type": "progLoad",
+      "data": {
+        "version": 1,
+        "handleName": "Data"
+      }
+    },
+    "handle remapping": {
+      "version": 1,
+      "map": [
+        {
+          "key": "Data",
+          "value": "Parameter {load}"
+        }
+      ]
+    },
+    "bounds": {
+      "version": 1,
+      "acceptsHWFocus": "No",
+      "showWhenDataModelInvalid": "Show",
+      "whenVisible": "Always",
+      "boundsType": "Absolute",
+      "bounds": "990 30 120 48"
+    }
+  },
+  {
+    "version": 2,
+    "componentData": {
+      "version": 1,
+      "name": "",
+      "type": "progSave",
+      "data": {
+        "version": 1,
+        "handleName": "Data"
+      }
+    },
+    "handle remapping": {
+      "version": 1,
+      "map": [
+        {
+          "key": "Data",
+          "value": "Parameter {save}"
+        }
+      ]
+    },
+    "bounds": {
+      "version": 1,
+      "acceptsHWFocus": "No",
+      "showWhenDataModelInvalid": "Show",
+      "whenVisible": "Always",
+      "boundsType": "Absolute",
+      "bounds": "1110 30 120 48"
+    }
+  }
+]

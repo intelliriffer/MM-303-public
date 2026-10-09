@@ -1,0 +1,121 @@
+{
+  "key": "capture",
+  "value": {
+    "version": 2,
+    "actions": [
+      {
+        "version": 1,
+        "onAction": "Mouse Down",
+        "handler": "Q-Link",
+        "handleName": "Data",
+        "additionalData": ""
+      },
+      {
+        "version": 1,
+        "onAction": "Enter Pressed",
+        "handler": "Toggle Switch",
+        "handleName": "Data",
+        "additionalData": ""
+      }
+    ],
+    "backgroundData": {
+      "version": 1,
+      "focussed": {
+        "version": 1,
+        "colour": "0",
+        "image": ""
+      },
+      "unfocussed": {
+        "version": 1,
+        "colour": "0",
+        "image": ""
+      }
+    },
+    "ignoreMousePresses": false,
+    "disableCoarseDataWheel": false,
+    "componentsData": [
+      {
+        "version": 2,
+        "componentData": {
+          "version": 1,
+          "name": "Focus",
+          "type": "Focus",
+          "data": {
+            "version": 1,
+            "backgroundColour": "00ffffff",
+            "outlineColour": "00e81f40",
+            "backgroundInset": 4.0,
+            "outlineThickness": 1.0
+          }
+        },
+        "handle remapping": {
+          "version": 1,
+          "map": []
+        },
+        "bounds": {
+          "version": 1,
+          "acceptsHWFocus": "No",
+          "showWhenDataModelInvalid": "Show",
+          "whenVisible": "WhenFocussed",
+          "boundsType": "Absolute",
+          "bounds": "0 0 120 52"
+        }
+      },
+      {
+        "version": 2,
+        "componentData": {
+          "version": 1,
+          "name": "",
+          "type": "Button",
+          "data": {
+            "version": 1,
+            "onImage": "capture_on.png",
+            "offImage": "capture_off.png",
+            "buttonId": 1,
+            "numButtonsInGroup": 1,
+            "handleName": "Data"
+          }
+        },
+        "handle remapping": {
+          "version": 1,
+          "map": []
+        },
+        "bounds": {
+          "version": 1,
+          "acceptsHWFocus": "No",
+          "showWhenDataModelInvalid": "Show",
+          "whenVisible": "Always",
+          "boundsType": "Absolute",
+          "bounds": "0 0 120 52"
+        }
+      }
+    ]
+  },
+  "version": 2,
+  "componentData": {
+    "version": 1,
+    "name": "{name}",
+    "type": "capture",
+    "data": {
+      "version": 1,
+      "handleName": "Data"
+    }
+  },
+  "handle remapping": {
+    "version": 1,
+    "map": [
+      {
+        "key": "Data",
+        "value": "Parameter {index}"
+      }
+    ]
+  },
+  "bounds": {
+    "version": 1,
+    "acceptsHWFocus": "Yes",
+    "showWhenDataModelInvalid": "Hide",
+    "whenVisible": "Always",
+    "boundsType": "Absolute",
+    "bounds": "{x} {y} 120 52"
+  }
+}

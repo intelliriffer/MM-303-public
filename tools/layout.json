@@ -1,0 +1,1604 @@
+[
+  {
+    "count": 4,
+    "template": "TUI-4-7.json",
+    "sidemargin": [
+      222
+    ],
+    "rowspacing": 32,
+    "KNOBS": [
+      {
+        "type": "knobFatGearLargeSmText",
+        "bounds": [
+          222,
+          187,
+          164,
+          205
+        ],
+        "labelpos": [
+          222,
+          184,
+          164,
+          40
+        ]
+      },
+      {
+        "type": "knobFatGearLargeSmText",
+        "bounds": [
+          446,
+          187,
+          164,
+          205
+        ],
+        "labelpos": [
+          446,
+          184,
+          164,
+          40
+        ]
+      },
+      {
+        "type": "knobFatGearLargeSmText",
+        "bounds": [
+          670,
+          187,
+          164,
+          205
+        ],
+        "labelpos": [
+          670,
+          184,
+          164,
+          40
+        ]
+      },
+      {
+        "type": "knobFatGearLargeSmText",
+        "bounds": [
+          894,
+          187,
+          164,
+          205
+        ],
+        "labelpos": [
+          894,
+          184,
+          164,
+          40
+        ]
+      }
+    ]
+  },
+  {
+    "count": 5,
+    "template": "TUI-4-7.json",
+    "sidemargin": [
+      110
+    ],
+    "rowspacing": 32,
+    "KNOBS": [
+      {
+        "type": "knobFatGearLargeSmText",
+        "bounds": [
+          110,
+          187,
+          164,
+          205
+        ],
+        "labelpos": [
+          110,
+          184,
+          164,
+          40
+        ]
+      },
+      {
+        "type": "knobFatGearLargeSmText",
+        "bounds": [
+          334,
+          187,
+          164,
+          205
+        ],
+        "labelpos": [
+          334,
+          184,
+          164,
+          40
+        ]
+      },
+      {
+        "type": "knobFatGearLargeSmText",
+        "bounds": [
+          558,
+          187,
+          164,
+          205
+        ],
+        "labelpos": [
+          558,
+          184,
+          164,
+          40
+        ]
+      },
+      {
+        "type": "knobFatGearLargeSmText",
+        "bounds": [
+          782,
+          187,
+          164,
+          205
+        ],
+        "labelpos": [
+          782,
+          184,
+          164,
+          40
+        ]
+      },
+      {
+        "type": "knobFatGearLargeSmText",
+        "bounds": [
+          1006,
+          187,
+          164,
+          205
+        ],
+        "labelpos": [
+          1006,
+          184,
+          164,
+          40
+        ]
+      }
+    ]
+  },
+  {
+    "count": 6,
+    "template": "TUI-4-7.json",
+    "sidemargin": [
+      72
+    ],
+    "rowspacing": 32,
+    "KNOBS": [
+      {
+        "type": "knobFatGearLargeSmText",
+        "bounds": [
+          72,
+          187,
+          164,
+          205
+        ],
+        "labelpos": [
+          72,
+          184,
+          164,
+          40
+        ]
+      },
+      {
+        "type": "knobFatGearLargeSmText",
+        "bounds": [
+          266,
+          187,
+          164,
+          205
+        ],
+        "labelpos": [
+          266,
+          184,
+          164,
+          40
+        ]
+      },
+      {
+        "type": "knobFatGearLargeSmText",
+        "bounds": [
+          461,
+          187,
+          164,
+          205
+        ],
+        "labelpos": [
+          461,
+          184,
+          164,
+          40
+        ]
+      },
+      {
+        "type": "knobFatGearLargeSmText",
+        "bounds": [
+          655,
+          187,
+          164,
+          205
+        ],
+        "labelpos": [
+          655,
+          184,
+          164,
+          40
+        ]
+      },
+      {
+        "type": "knobFatGearLargeSmText",
+        "bounds": [
+          850,
+          187,
+          164,
+          205
+        ],
+        "labelpos": [
+          850,
+          184,
+          164,
+          40
+        ]
+      },
+      {
+        "type": "knobFatGearLargeSmText",
+        "bounds": [
+          1044,
+          187,
+          164,
+          205
+        ],
+        "labelpos": [
+          1044,
+          184,
+          164,
+          40
+        ]
+      }
+    ]
+  },
+  {
+    "count": 7,
+    "template": "TUI-4-7.json",
+    "sidemargin": [
+      66
+    ],
+    "rowspacing": 32,
+    "KNOBS": [
+      {
+        "type": "knobFatGearLargeSmText",
+        "bounds": [
+          66,
+          187,
+          164,
+          205
+        ],
+        "labelpos": [
+          66,
+          184,
+          164,
+          40
+        ]
+      },
+      {
+        "type": "knobFatGearLargeSmText",
+        "bounds": [
+          230,
+          187,
+          164,
+          205
+        ],
+        "labelpos": [
+          230,
+          184,
+          164,
+          40
+        ]
+      },
+      {
+        "type": "knobFatGearLargeSmText",
+        "bounds": [
+          394,
+          187,
+          164,
+          205
+        ],
+        "labelpos": [
+          394,
+          184,
+          164,
+          40
+        ]
+      },
+      {
+        "type": "knobFatGearLargeSmText",
+        "bounds": [
+          558,
+          187,
+          164,
+          205
+        ],
+        "labelpos": [
+          558,
+          184,
+          164,
+          40
+        ]
+      },
+      {
+        "type": "knobFatGearLargeSmText",
+        "bounds": [
+          722,
+          187,
+          164,
+          205
+        ],
+        "labelpos": [
+          722,
+          184,
+          164,
+          40
+        ]
+      },
+      {
+        "type": "knobFatGearLargeSmText",
+        "bounds": [
+          886,
+          187,
+          164,
+          205
+        ],
+        "labelpos": [
+          886,
+          184,
+          164,
+          40
+        ]
+      },
+      {
+        "type": "knobFatGearLargeSmText",
+        "bounds": [
+          1050,
+          187,
+          164,
+          205
+        ],
+        "labelpos": [
+          1050,
+          184,
+          164,
+          40
+        ]
+      }
+    ]
+  },
+  {
+    "count": 8,
+    "template": "TUI-8-15.json",
+    "sidemargin": [
+      222,
+      222
+    ],
+    "rowspacing": 32,
+    "KNOBS": [
+      {
+        "type": "knobFatGearLargeSmText",
+        "bounds": [
+          222,
+          116,
+          164,
+          205
+        ],
+        "labelpos": [
+          222,
+          113,
+          164,
+          40
+        ]
+      },
+      {
+        "type": "knobFatGearLargeSmText",
+        "bounds": [
+          446,
+          116,
+          164,
+          205
+        ],
+        "labelpos": [
+          446,
+          113,
+          164,
+          40
+        ]
+      },
+      {
+        "type": "knobFatGearLargeSmText",
+        "bounds": [
+          670,
+          116,
+          164,
+          205
+        ],
+        "labelpos": [
+          670,
+          113,
+          164,
+          40
+        ]
+      },
+      {
+        "type": "knobFatGearLargeSmText",
+        "bounds": [
+          894,
+          116,
+          164,
+          205
+        ],
+        "labelpos": [
+          894,
+          113,
+          164,
+          40
+        ]
+      },
+      {
+        "type": "knobFatGearLargeSmText",
+        "bounds": [
+          222,
+          329,
+          164,
+          205
+        ],
+        "labelpos": [
+          222,
+          326,
+          164,
+          40
+        ]
+      },
+      {
+        "type": "knobFatGearLargeSmText",
+        "bounds": [
+          446,
+          329,
+          164,
+          205
+        ],
+        "labelpos": [
+          446,
+          326,
+          164,
+          40
+        ]
+      },
+      {
+        "type": "knobFatGearLargeSmText",
+        "bounds": [
+          670,
+          329,
+          164,
+          205
+        ],
+        "labelpos": [
+          670,
+          326,
+          164,
+          40
+        ]
+      },
+      {
+        "type": "knobFatGearLargeSmText",
+        "bounds": [
+          894,
+          329,
+          164,
+          205
+        ],
+        "labelpos": [
+          894,
+          326,
+          164,
+          40
+        ]
+      }
+    ]
+  },
+  {
+    "count": 9,
+    "template": "TUI-8-15.json",
+    "sidemargin": [
+      110,
+      222
+    ],
+    "rowspacing": 32,
+    "KNOBS": [
+      {
+        "type": "knobFatGearLargeSmText",
+        "bounds": [
+          110,
+          116,
+          164,
+          205
+        ],
+        "labelpos": [
+          110,
+          113,
+          164,
+          40
+        ]
+      },
+      {
+        "type": "knobFatGearLargeSmText",
+        "bounds": [
+          334,
+          116,
+          164,
+          205
+        ],
+        "labelpos": [
+          334,
+          113,
+          164,
+          40
+        ]
+      },
+      {
+        "type": "knobFatGearLargeSmText",
+        "bounds": [
+          558,
+          116,
+          164,
+          205
+        ],
+        "labelpos": [
+          558,
+          113,
+          164,
+          40
+        ]
+      },
+      {
+        "type": "knobFatGearLargeSmText",
+        "bounds": [
+          782,
+          116,
+          164,
+          205
+        ],
+        "labelpos": [
+          782,
+          113,
+          164,
+          40
+        ]
+      },
+      {
+        "type": "knobFatGearLargeSmText",
+        "bounds": [
+          1006,
+          116,
+          164,
+          205
+        ],
+        "labelpos": [
+          1006,
+          113,
+          164,
+          40
+        ]
+      },
+      {
+        "type": "knobFatGearLargeSmText",
+        "bounds": [
+          222,
+          329,
+          164,
+          205
+        ],
+        "labelpos": [
+          222,
+          326,
+          164,
+          40
+        ]
+      },
+      {
+        "type": "knobFatGearLargeSmText",
+        "bounds": [
+          446,
+          329,
+          164,
+          205
+        ],
+        "labelpos": [
+          446,
+          326,
+          164,
+          40
+        ]
+      },
+      {
+        "type": "knobFatGearLargeSmText",
+        "bounds": [
+          670,
+          329,
+          164,
+          205
+        ],
+        "labelpos": [
+          670,
+          326,
+          164,
+          40
+        ]
+      },
+      {
+        "type": "knobFatGearLargeSmText",
+        "bounds": [
+          894,
+          329,
+          164,
+          205
+        ],
+        "labelpos": [
+          894,
+          326,
+          164,
+          40
+        ]
+      }
+    ]
+  },
+  {
+    "count": 10,
+    "template": "TUI-8-15.json",
+    "sidemargin": [
+      110,
+      110
+    ],
+    "rowspacing": 32,
+    "KNOBS": [
+      {
+        "type": "knobFatGearLargeSmText",
+        "bounds": [
+          110,
+          116,
+          164,
+          205
+        ],
+        "labelpos": [
+          110,
+          113,
+          164,
+          40
+        ]
+      },
+      {
+        "type": "knobFatGearLargeSmText",
+        "bounds": [
+          334,
+          116,
+          164,
+          205
+        ],
+        "labelpos": [
+          334,
+          113,
+          164,
+          40
+        ]
+      },
+      {
+        "type": "knobFatGearLargeSmText",
+        "bounds": [
+          558,
+          116,
+          164,
+          205
+        ],
+        "labelpos": [
+          558,
+          113,
+          164,
+          40
+        ]
+      },
+      {
+        "type": "knobFatGearLargeSmText",
+        "bounds": [
+          782,
+          116,
+          164,
+          205
+        ],
+        "labelpos": [
+          782,
+          113,
+          164,
+          40
+        ]
+      },
+      {
+        "type": "knobFatGearLargeSmText",
+        "bounds": [
+          1006,
+          116,
+          164,
+          205
+        ],
+        "labelpos": [
+          1006,
+          113,
+          164,
+          40
+        ]
+      },
+      {
+        "type": "knobFatGearLargeSmText",
+        "bounds": [
+          110,
+          329,
+          164,
+          205
+        ],
+        "labelpos": [
+          110,
+          326,
+          164,
+          40
+        ]
+      },
+      {
+        "type": "knobFatGearLargeSmText",
+        "bounds": [
+          334,
+          329,
+          164,
+          205
+        ],
+        "labelpos": [
+          334,
+          326,
+          164,
+          40
+        ]
+      },
+      {
+        "type": "knobFatGearLargeSmText",
+        "bounds": [
+          558,
+          329,
+          164,
+          205
+        ],
+        "labelpos": [
+          558,
+          326,
+          164,
+          40
+        ]
+      },
+      {
+        "type": "knobFatGearLargeSmText",
+        "bounds": [
+          782,
+          329,
+          164,
+          205
+        ],
+        "labelpos": [
+          782,
+          326,
+          164,
+          40
+        ]
+      },
+      {
+        "type": "knobFatGearLargeSmText",
+        "bounds": [
+          1006,
+          329,
+          164,
+          205
+        ],
+        "labelpos": [
+          1006,
+          326,
+          164,
+          40
+        ]
+      }
+    ]
+  },
+  {
+    "count": 11,
+    "template": "TUI-8-15.json",
+    "sidemargin": [
+      72,
+      110
+    ],
+    "rowspacing": 32,
+    "KNOBS": [
+      {
+        "type": "knobFatGearLargeSmText",
+        "bounds": [
+          72,
+          116,
+          164,
+          205
+        ],
+        "labelpos": [
+          72,
+          113,
+          164,
+          40
+        ]
+      },
+      {
+        "type": "knobFatGearLargeSmText",
+        "bounds": [
+          266,
+          116,
+          164,
+          205
+        ],
+        "labelpos": [
+          266,
+          113,
+          164,
+          40
+        ]
+      },
+      {
+        "type": "knobFatGearLargeSmText",
+        "bounds": [
+          461,
+          116,
+          164,
+          205
+        ],
+        "labelpos": [
+          461,
+          113,
+          164,
+          40
+        ]
+      },
+      {
+        "type": "knobFatGearLargeSmText",
+        "bounds": [
+          655,
+          116,
+          164,
+          205
+        ],
+        "labelpos": [
+          655,
+          113,
+          164,
+          40
+        ]
+      },
+      {
+        "type": "knobFatGearLargeSmText",
+        "bounds": [
+          850,
+          116,
+          164,
+          205
+        ],
+        "labelpos": [
+          850,
+          113,
+          164,
+          40
+        ]
+      },
+      {
+        "type": "knobFatGearLargeSmText",
+        "bounds": [
+          1044,
+          116,
+          164,
+          205
+        ],
+        "labelpos": [
+          1044,
+          113,
+          164,
+          40
+        ]
+      },
+      {
+        "type": "knobFatGearLargeSmText",
+        "bounds": [
+          110,
+          329,
+          164,
+          205
+        ],
+        "labelpos": [
+          110,
+          326,
+          164,
+          40
+        ]
+      },
+      {
+        "type": "knobFatGearLargeSmText",
+        "bounds": [
+          334,
+          329,
+          164,
+          205
+        ],
+        "labelpos": [
+          334,
+          326,
+          164,
+          40
+        ]
+      },
+      {
+        "type": "knobFatGearLargeSmText",
+        "bounds": [
+          558,
+          329,
+          164,
+          205
+        ],
+        "labelpos": [
+          558,
+          326,
+          164,
+          40
+        ]
+      },
+      {
+        "type": "knobFatGearLargeSmText",
+        "bounds": [
+          782,
+          329,
+          164,
+          205
+        ],
+        "labelpos": [
+          782,
+          326,
+          164,
+          40
+        ]
+      },
+      {
+        "type": "knobFatGearLargeSmText",
+        "bounds": [
+          1006,
+          329,
+          164,
+          205
+        ],
+        "labelpos": [
+          1006,
+          326,
+          164,
+          40
+        ]
+      }
+    ]
+  },
+  {
+    "count": 12,
+    "template": "TUI-8-15.json",
+    "sidemargin": [
+      72,
+      72
+    ],
+    "rowspacing": 32,
+    "KNOBS": [
+      {
+        "type": "knobFatGearLargeSmText",
+        "bounds": [
+          72,
+          116,
+          164,
+          205
+        ],
+        "labelpos": [
+          72,
+          113,
+          164,
+          40
+        ]
+      },
+      {
+        "type": "knobFatGearLargeSmText",
+        "bounds": [
+          266,
+          116,
+          164,
+          205
+        ],
+        "labelpos": [
+          266,
+          113,
+          164,
+          40
+        ]
+      },
+      {
+        "type": "knobFatGearLargeSmText",
+        "bounds": [
+          461,
+          116,
+          164,
+          205
+        ],
+        "labelpos": [
+          461,
+          113,
+          164,
+          40
+        ]
+      },
+      {
+        "type": "knobFatGearLargeSmText",
+        "bounds": [
+          655,
+          116,
+          164,
+          205
+        ],
+        "labelpos": [
+          655,
+          113,
+          164,
+          40
+        ]
+      },
+      {
+        "type": "knobFatGearLargeSmText",
+        "bounds": [
+          850,
+          116,
+          164,
+          205
+        ],
+        "labelpos": [
+          850,
+          113,
+          164,
+          40
+        ]
+      },
+      {
+        "type": "knobFatGearLargeSmText",
+        "bounds": [
+          1044,
+          116,
+          164,
+          205
+        ],
+        "labelpos": [
+          1044,
+          113,
+          164,
+          40
+        ]
+      },
+      {
+        "type": "knobFatGearLargeSmText",
+        "bounds": [
+          72,
+          329,
+          164,
+          205
+        ],
+        "labelpos": [
+          72,
+          326,
+          164,
+          40
+        ]
+      },
+      {
+        "type": "knobFatGearLargeSmText",
+        "bounds": [
+          266,
+          329,
+          164,
+          205
+        ],
+        "labelpos": [
+          266,
+          326,
+          164,
+          40
+        ]
+      },
+      {
+        "type": "knobFatGearLargeSmText",
+        "bounds": [
+          461,
+          329,
+          164,
+          205
+        ],
+        "labelpos": [
+          461,
+          326,
+          164,
+          40
+        ]
+      },
+      {
+        "type": "knobFatGearLargeSmText",
+        "bounds": [
+          655,
+          329,
+          164,
+          205
+        ],
+        "labelpos": [
+          655,
+          326,
+          164,
+          40
+        ]
+      },
+      {
+        "type": "knobFatGearLargeSmText",
+        "bounds": [
+          850,
+          329,
+          164,
+          205
+        ],
+        "labelpos": [
+          850,
+          326,
+          164,
+          40
+        ]
+      },
+      {
+        "type": "knobFatGearLargeSmText",
+        "bounds": [
+          1044,
+          329,
+          164,
+          205
+        ],
+        "labelpos": [
+          1044,
+          326,
+          164,
+          40
+        ]
+      }
+    ]
+  },
+  {
+    "count": 13,
+    "template": "TUI-8-15.json",
+    "sidemargin": [
+      66,
+      72
+    ],
+    "rowspacing": 32,
+    "KNOBS": [
+      {
+        "type": "knobFatGearLargeSmText",
+        "bounds": [
+          66,
+          116,
+          164,
+          205
+        ],
+        "labelpos": [
+          66,
+          113,
+          164,
+          40
+        ]
+      },
+      {
+        "type": "knobFatGearLargeSmText",
+        "bounds": [
+          230,
+          116,
+          164,
+          205
+        ],
+        "labelpos": [
+          230,
+          113,
+          164,
+          40
+        ]
+      },
+      {
+        "type": "knobFatGearLargeSmText",
+        "bounds": [
+          394,
+          116,
+          164,
+          205
+        ],
+        "labelpos": [
+          394,
+          113,
+          164,
+          40
+        ]
+      },
+      {
+        "type": "knobFatGearLargeSmText",
+        "bounds": [
+          558,
+          116,
+          164,
+          205
+        ],
+        "labelpos": [
+          558,
+          113,
+          164,
+          40
+        ]
+      },
+      {
+        "type": "knobFatGearLargeSmText",
+        "bounds": [
+          722,
+          116,
+          164,
+          205
+        ],
+        "labelpos": [
+          722,
+          113,
+          164,
+          40
+        ]
+      },
+      {
+        "type": "knobFatGearLargeSmText",
+        "bounds": [
+          886,
+          116,
+          164,
+          205
+        ],
+        "labelpos": [
+          886,
+          113,
+          164,
+          40
+        ]
+      },
+      {
+        "type": "knobFatGearLargeSmText",
+        "bounds": [
+          1050,
+          116,
+          164,
+          205
+        ],
+        "labelpos": [
+          1050,
+          113,
+          164,
+          40
+        ]
+      },
+      {
+        "type": "knobFatGearLargeSmText",
+        "bounds": [
+          72,
+          329,
+          164,
+          205
+        ],
+        "labelpos": [
+          72,
+          326,
+          164,
+          40
+        ]
+      },
+      {
+        "type": "knobFatGearLargeSmText",
+        "bounds": [
+          266,
+          329,
+          164,
+          205
+        ],
+        "labelpos": [
+          266,
+          326,
+          164,
+          40
+        ]
+      },
+      {
+        "type": "knobFatGearLargeSmText",
+        "bounds": [
+          461,
+          329,
+          164,
+          205
+        ],
+        "labelpos": [
+          461,
+          326,
+          164,
+          40
+        ]
+      },
+      {
+        "type": "knobFatGearLargeSmText",
+        "bounds": [
+          655,
+          329,
+          164,
+          205
+        ],
+        "labelpos": [
+          655,
+          326,
+          164,
+          40
+        ]
+      },
+      {
+        "type": "knobFatGearLargeSmText",
+        "bounds": [
+          850,
+          329,
+          164,
+          205
+        ],
+        "labelpos": [
+          850,
+          326,
+          164,
+          40
+        ]
+      },
+      {
+        "type": "knobFatGearLargeSmText",
+        "bounds": [
+          1044,
+          329,
+          164,
+          205
+        ],
+        "labelpos": [
+          1044,
+          326,
+          164,
+          40
+        ]
+      }
+    ]
+  },
+  {
+    "count": 14,
+    "template": "TUI-8-15.json",
+    "sidemargin": [
+      66,
+      66
+    ],
+    "rowspacing": 32,
+    "KNOBS": [
+      {
+        "type": "knobFatGearLargeSmText",
+        "bounds": [
+          66,
+          116,
+          164,
+          205
+        ],
+        "labelpos": [
+          66,
+          113,
+          164,
+          40
+        ]
+      },
+      {
+        "type": "knobFatGearLargeSmText",
+        "bounds": [
+          230,
+          116,
+          164,
+          205
+        ],
+        "labelpos": [
+          230,
+          113,
+          164,
+          40
+        ]
+      },
+      {
+        "type": "knobFatGearLargeSmText",
+        "bounds": [
+          394,
+          116,
+          164,
+          205
+        ],
+        "labelpos": [
+          394,
+          113,
+          164,
+          40
+        ]
+      },
+      {
+        "type": "knobFatGearLargeSmText",
+        "bounds": [
+          558,
+          116,
+          164,
+          205
+        ],
+        "labelpos": [
+          558,
+          113,
+          164,
+          40
+        ]
+      },
+      {
+        "type": "knobFatGearLargeSmText",
+        "bounds": [
+          722,
+          116,
+          164,
+          205
+        ],
+        "labelpos": [
+          722,
+          113,
+          164,
+          40
+        ]
+      },
+      {
+        "type": "knobFatGearLargeSmText",
+        "bounds": [
+          886,
+          116,
+          164,
+          205
+        ],
+        "labelpos": [
+          886,
+          113,
+          164,
+          40
+        ]
+      },
+      {
+        "type": "knobFatGearLargeSmText",
+        "bounds": [
+          1050,
+          116,
+          164,
+          205
+        ],
+        "labelpos": [
+          1050,
+          113,
+          164,
+          40
+        ]
+      },
+      {
+        "type": "knobFatGearLargeSmText",
+        "bounds": [
+          66,
+          329,
+          164,
+          205
+        ],
+        "labelpos": [
+          66,
+          326,
+          164,
+          40
+        ]
+      },
+      {
+        "type": "knobFatGearLargeSmText",
+        "bounds": [
+          230,
+          329,
+          164,
+          205
+        ],
+        "labelpos": [
+          230,
+          326,
+          164,
+          40
+        ]
+      },
+      {
+        "type": "knobFatGearLargeSmText",
+        "bounds": [
+          394,
+          329,
+          164,
+          205
+        ],
+        "labelpos": [
+          394,
+          326,
+          164,
+          40
+        ]
+      },
+      {
+        "type": "knobFatGearLargeSmText",
+        "bounds": [
+          558,
+          329,
+          164,
+          205
+        ],
+        "labelpos": [
+          558,
+          326,
+          164,
+          40
+        ]
+      },
+      {
+        "type": "knobFatGearLargeSmText",
+        "bounds": [
+          722,
+          329,
+          164,
+          205
+        ],
+        "labelpos": [
+          722,
+          326,
+          164,
+          40
+        ]
+      },
+      {
+        "type": "knobFatGearLargeSmText",
+        "bounds": [
+          886,
+          329,
+          164,
+          205
+        ],
+        "labelpos": [
+          886,
+          326,
+          164,
+          40
+        ]
+      },
+      {
+        "type": "knobFatGearLargeSmText",
+        "bounds": [
+          1050,
+          329,
+          164,
+          205
+        ],
+        "labelpos": [
+          1050,
+          326,
+          164,
+          40
+        ]
+      }
+    ]
+  }
+]

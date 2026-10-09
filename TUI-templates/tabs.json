@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "tabName": "{tabname}",
+  "fnKeyIndex": 0,
+  "fnKeySubIndex": 0,
+  "componentDefinition": {
+    "version": 2,
+    "actions": [],
+    "backgroundData": {
+      "version": 1,
+      "focussed": {
+        "version": 1,
+        "colour": "ff000000",
+        "image": "{tabimage}"
+      },
+      "unfocussed": {
+        "version": 1,
+        "colour": "ff000000",
+        "image": "{tabimage}"
+      }
+    },
+    "ignoreMousePresses": false,
+    "disableCoarseDataWheel": false,
+    "componentsData": []
+  },
+  "qlinkBoundsData": [
+    "628 35 283 560",
+    "935 31 198 568"
+  ]
+}
