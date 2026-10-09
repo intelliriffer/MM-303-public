@@ -1,0 +1,6 @@
+output/
+plugin/build/
+plugin/lib/
+*.log
+.DS_Store
+*.bak
