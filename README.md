@@ -81,6 +81,14 @@ These are the additions MM-303 makes on top of the upstream JC-303 / Open303:
       slot numbers (`#000`, `#001`, … `#127`); selecting one loads that slot
       instantly and updates Prog#.
 
+## Screenshots
+
+![Main Synth Engine](images/MM303-MAIN.png)
+
+![Devil Engine](images/MM303-DEVIL-ENGINE.png)
+
+![Sequencer](images/MM303-SEQUENCER.png)
+
 ## 🛠️ Build Requirements
 
 This project was developed and tested **only using Docker** on **macOS**.
@@ -91,6 +99,7 @@ This project was developed and tested **only using Docker** on **macOS**.
   chain to their own systems.
 
 What you need:
+
 - **Docker** (the build runs in an armhf `gcc:11` container matching the device).
   - macOS / Windows: install [Docker Desktop](https://www.docker.com/products/docker-desktop/).
   - Linux: install Docker Engine + armhf emulation
@@ -159,6 +168,10 @@ resonance = 71
 `skin/` holds the touchscreen skin (images + `assets.json`); the parameter pages
 are generated from `TUI-templates/layout.conf` by `tools/gen_tui_layout.py` and
 assembled into the package's `Plugin Skins/` by `build.sh`.
+
+All Graphics were manually designed in photoshop and jknobman for knobs.
+
+
 
 ## Credits
 
